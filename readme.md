@@ -146,14 +146,4 @@ Rider's App
 ![10u](https://user-images.githubusercontent.com/86646962/180577423-15b6969a-8b9e-430e-b536-dbdb12c99844.jpeg)
 ent.com/86646962/180577376-3fa26f58-b408-458b-8437-3386ec618538.jpeg)
 ![11u](https://user-images.githubusercontent.com/86646962/180577446-7abbe6aa-6d09-4d32-a65a-6af84d669b11.jpeg) -->
-## To try your hands on the Project
-1) Clone the repository.  
-2) Create a Firebase project, add com.example.kitchen2cabin, com.example.kitchen2cabin_sellers_app, com.example.kitchen2cabin_users_app, com.example.kitchen2cabin_riders_app to it, edit rules as required.
-3) For each app, place google-services.json in /android/app/ folder.
-4) Build the app, deploy to your device and you are good to go.
 
-## Team Details
-1. <a href="https://github.com/ishankhan7572">Ishan Khan</a>
-2. <a href="https://github.com/ishanchal">Ishanchal Kashyap</a>
-<!-- 1) Ishan Khan
-2) Ishanchal Kashyap -->
