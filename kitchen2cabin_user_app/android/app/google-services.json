@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "732685326870",
+    "project_id": "kitchen2cabin-1d7a4",
+    "storage_bucket": "kitchen2cabin-1d7a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732685326870:android:32ceacf2b37e66d0ecb337",
+        "android_client_info": {
+          "package_name": "com.example.kitchen2cabin_seller_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732685326870-lrsp8g1h0uuk2imelvpt993ngr98h89f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoJMjAuGs5HI4n8J_SXu0sxzhPheXpQYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732685326870-lrsp8g1h0uuk2imelvpt993ngr98h89f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732685326870:android:1efd7ff968f56938ecb337",
+        "android_client_info": {
+          "package_name": "com.example.kitchen2cabin_user_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732685326870-lrsp8g1h0uuk2imelvpt993ngr98h89f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoJMjAuGs5HI4n8J_SXu0sxzhPheXpQYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732685326870-lrsp8g1h0uuk2imelvpt993ngr98h89f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
